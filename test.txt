@@ -4,3 +4,4 @@ test 2
 add new menu here
 menu item 1
 menu item 2
+menu item 3
